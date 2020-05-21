@@ -1,0 +1,23 @@
+.wrapper_index {
+	display: flex;
+	text-align: center;
+	justify-content: center;
+	width: 60%;
+	height: 60%;
+	background-color: #4b68c965;
+	margin: 30px auto;
+	padding: 15px;
+}
+.wrapper_personal{
+	text-align: center;
+	input{
+		margin: 0 auto;
+	}
+}
+input{
+	display: block;
+	margin: 10px 0;
+}
+input[type=button]{
+	margin: 0 auto;
+}

@@ -1,0 +1,31 @@
+.wrapper_index {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  text-align: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  width: 60%;
+  height: 60%;
+  background-color: #4b68c965;
+  margin: 30px auto;
+  padding: 15px;
+}
+
+.wrapper_personal {
+  text-align: center;
+}
+
+.wrapper_personal input {
+  margin: 0 auto;
+}
+
+input {
+  display: block;
+  margin: 10px 0;
+}
+
+input[type=button] {
+  margin: 0 auto;
+}
